@@ -1,0 +1,10 @@
+{
+  "name": "khromov/query-monitor-sage-template",
+  "description": "Shows the active Sage Template in use. (Base and main)",
+  "keywords": ["wordpress", "debug", "roots", "sage"],
+  "license": "GPL2",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
